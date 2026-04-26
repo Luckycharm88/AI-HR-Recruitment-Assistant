@@ -1,4 +1,10 @@
-langgraph
-google-generativeai
 gradio
+chromadb
+langgraph
+langchain
+langchain-groq
+langchain-huggingface
+langchain-community
+langchain-chroma
 pytz
+unstructured
